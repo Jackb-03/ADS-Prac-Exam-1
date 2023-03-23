@@ -1,5 +1,3 @@
-#ifndef R1_H
-#define R1_H
 
 #include <iostream>
 using namespace std;
@@ -17,6 +15,6 @@ int sum_of_squares(int n, int res=0){
 
 }
 
-#endif
+
 
 
