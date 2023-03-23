@@ -1,5 +1,3 @@
-#ifndef R2_H
-#define R2_H
 
 #include <iostream>
 using namespace std;
@@ -16,7 +14,5 @@ int stars(int n, string res=""){
 
 
 }
-
-#endif
 
 
