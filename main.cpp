@@ -1,6 +1,8 @@
+#include <iostream>
 int main(int argc, char const *argv[])
 {
-    /* code */
+
+
+    std::cout<<"Test";
     return 0;
 }
-//ok
